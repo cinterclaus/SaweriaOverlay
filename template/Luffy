@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Saweria Overlay - Luffy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="overlay">
+    <!-- Background GIF Luffy -->
+    <div class="background">
+      <img src="assets/luffy.gif" alt="Luffy Gear 5">
+    </div>
+
+    <!-- Notification Box -->
+    <div class="notification">
+      <div class="donator">{donator}</div>
+      <div class="amount">donated {amount}</div>
+      <div class="message">{message}</div>
+    </div>
+  </div>
+</body>
+</html>
